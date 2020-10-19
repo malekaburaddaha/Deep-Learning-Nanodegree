@@ -52,3 +52,13 @@ classifiers.
 4. Classifying dog breeds: via preprocessing our images  (rotating, resizing, cropping, etc...) and training the model for a sufficient number of epochs to obtain the desired results.
 5. The last step will be to test a few images (dogs and human pictures) of our own choice and see how the model will perform. 
 
+
+
+## Suggested Improvement
+
+This project can be improved as follow:
+1. Considering training the model with more number of epochs which could make an
+improvement.
+2. Considering more image augmentation that would make an improvement.
+3. Considering more improvement of the accuracy of the model by adding more layers
+or editing any of the model’s parameters such as the learning rate, optimizing function.
